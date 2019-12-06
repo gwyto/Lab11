@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+/******************************************************
+ Lab 11: VERSION CONTROL COMMENT ADDITION FOR CREDIT
+******************************************************/
 public class ConnectFour
 {
    // global scanner declaration
